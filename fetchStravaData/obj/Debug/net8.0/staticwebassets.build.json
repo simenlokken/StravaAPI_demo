@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "n0hJlLzp88zFlvyjOYk7TYmHNMu/qvWwUpRsDPkvzR8=",
+  "Source": "fetchStravaData",
+  "BasePath": "_content/fetchStravaData",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,1 @@
+code + data er Python-kode, mens fetchStravaData er C#-kode.
